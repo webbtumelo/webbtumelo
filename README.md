@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Tumelo
-#### I am a  Front-End Developer
+#### I am a  Front-End Developer, aspiring Fullstack Developer.
 Am a foodie| Design enthusiast |  Team-player |
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON
