@@ -1,17 +1,13 @@
-### Hi there 👋
 ### Hi there 👋, my name is Tumelo
 #### I am a  Front-End Developer
-![I am a  Front-End Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+Am a foodie| Design enthusiast |  Team-player |
 
-Am a foodie| Design enthusiast |  
-
-Skills: VUE JS / REACT / JS / HTML / CSS PYTHON
+Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on an app that creates an atmosphere of worship for bible study 
 - 🌱 I’m currently learning  Python 
 - 👯 I’m looking to collaborate on Web Design projects 
 - 🤔 I’m looking for help with a Front-end dev job or internship to get exposure 
-- 📫 How to reach me: linkedin: webbtumelo  
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Am  a self taught pianist 
 
@@ -26,6 +22,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS PYTHON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=webbtumelo&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=webbtumelo)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=webbtumelo)  
+
 
 
