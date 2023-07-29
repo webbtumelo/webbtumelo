@@ -7,7 +7,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON
 - 🔭 I’m currently working on an app that creates an atmosphere of worship for bible study 
 - 🌱 I’m currently learning  Python 
 - 👯 I’m looking to collaborate on Web Design projects 
-- 🤔 I’m looking for help with a Front-end dev job or internship to get exposure 
+- 🤔 I’m looking for help with a Front-end dev job or internship
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Am  a self taught pianist 
 
