@@ -4,11 +4,10 @@ Am a foodie| Design enthusiast |  Team-player |
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on an app that creates an atmosphere of worship for bible study 
+- 🔭 I’m currently working on a Login Authentication system using Firebase
 - 🌱 I’m currently learning  Python 
 - 👯 I’m looking to collaborate on Web Design projects 
-- 🤔 I’m looking for help with a Front-end dev job or internship
-- 😄 Pronouns: He/Him 
+- 😄 Pronouns: Me
 - ⚡ Fun fact: Am  a self taught pianist 
 
 
