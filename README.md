@@ -2,9 +2,9 @@
 #### I am a  Front-End Developer, aspiring Fullstack Developer.
 Am a foodie| Design enthusiast |  Team-player |
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON
+Skills: / JS / HTML / CSS / PYTHON / UI DESIGN / SQL
 
-- 🔭 I’m currently working on a Login Authentication system using Firebase
+- 🔭 I’m currently working on UI DESIGNS to code projects
 - 🌱 I’m currently learning  Python 
 - 👯 I’m looking to collaborate on Web Design projects 
 - 😄 Pronouns: Me
